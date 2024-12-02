@@ -1,0 +1,8 @@
+{
+  "name": "agilizapp-web",
+  "version": "0.1.0",
+  "scripts": {
+    "start:app-shell": "npm --prefix ./app-shell start",
+    "start:login-mfe": "npm --prefix ./login-mfe start"
+  }
+}
